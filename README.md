@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title></title>EXAM EXCUTION</title>
+<title>EXAM EXCUTION</title>
 </head>
 <body>
 <h1>registration form</h1>
