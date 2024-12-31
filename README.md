@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>EXAM EXCUTION</title>
 </head>
 <body>
 <h1>registration form</h1>
